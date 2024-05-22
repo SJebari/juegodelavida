@@ -1,6 +1,6 @@
-# MAFF
+# SJB
 
-CFGS Desenrotllament d'Aplicacions Web
+CFGS Desenrotllament d'Aplicacions Multiplataforma
 
 Entorns de Desenrotllament
 
